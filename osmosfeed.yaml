@@ -6,5 +6,4 @@
 cacheUrl: https://green-thanos.github.io/selfhosted-rss/cache.json
 sources:
   - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
   - href: https://blog.orhun.dev/rss.xml
