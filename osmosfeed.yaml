@@ -2,6 +2,7 @@
 # Full reference
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
+#
 
 cacheUrl: https://green-thanos.github.io/selfhosted-rss/cache.json
 sources:
